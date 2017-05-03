@@ -136,7 +136,7 @@ def main(ip='127.0.0.1', port=60000):
 
 
 if __name__ == '__main__':
-    main('172.20.232.1')
+    main('127.0.0.1')
     #put_file('test.png')
 
 
